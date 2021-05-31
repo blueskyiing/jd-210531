@@ -1,5 +1,5 @@
 ## 别fork了，封号才高兴？封号都玩不了次！！请直接下载整个仓库然后再本地上传到你自己新建的仓库，具体见[仓库同步](https://github.com/danwangshimoluo/JdScripts/issues/2#issuecomment-762612160) [获取GitHub Personal Access Token](https://www.jianshu.com/p/bb82b3ad1d11) 滥用github资源会封我仓库以及账号
-
+ok
 ### 个别活动默认不自动运行，如有需要请自行开启
 
 ## 特别声明: 
